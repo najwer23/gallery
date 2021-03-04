@@ -1,4 +1,4 @@
-console.log("Start utils.js")
+console.log("Started utils.js")
 
 function add(a,b) {
     return a+b;
